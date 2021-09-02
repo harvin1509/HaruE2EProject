@@ -1,0 +1,4 @@
+resources\Base.class
+pageObjects\LandingPage.class
+pageObjects\LoginPage.class
+AcademyHaru\HaruE2EProject\App.class
